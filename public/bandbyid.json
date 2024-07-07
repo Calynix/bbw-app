@@ -1,0 +1,46 @@
+{
+  "id": 4176,
+  "name": "Visions of Atlantis",
+  "description": "This is a Symphonic Metal Band. But also an example for a Api response",
+  "formed_in": 2000,
+  "genre": "Metal",
+  "albums": [
+    {
+      "id": 1,
+      "title": "Pirates || - Armada",
+      "release_year": 2024
+    },
+    {
+      "id": 2,
+      "title": "Second Album",
+      "release_year": 2012
+    }
+  ],
+  "members": [
+    {
+      "id": 101,
+      "name": "Clémentine Delauney",
+      "role": "Lead Vocals"
+    },
+    {
+      "id": 102,
+      "name": "Michele Guaitoli",
+      "role": "Lead Vocals"
+    },
+    {
+      "id": 103,
+      "name": "Christian Douscha",
+      "role": "Guitar"
+    },
+    {
+      "id": 104,
+      "name": "Herbert Glos",
+      "role": "Bass"
+    },
+    {
+      "id": 105,
+      "name": "Thomas Caser",
+      "role": "Drums"
+    }
+  ]
+}
